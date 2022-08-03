@@ -1,0 +1,72 @@
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojResolveAssemblyReference.cache
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.Cache
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojAssemblyReference.cache
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Mithun\Desktop\Visual studio\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.Login.resources
+C:\Users\user\Desktop\aiub\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\UserRegistration.UserRegistration.resources
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.Login.resources
+X:\Exercise\FINAL\C#\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\UserRegistration.UserRegistration.resources
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojAssemblyReference.cache
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.Login.resources
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Mithun\Desktop\Visual studio\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.UserRegistration.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojResolveAssemblyReference.cache
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.Login.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.UserRegistration.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+X:\A I U B\7 T H S E M E S T E R\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.EmpInfo.resources
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.Login.resources
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.OrderList.resources
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Presentation_Layer.UserRegistration.resources
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\user\Desktop\aiub\EM\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.Cache
